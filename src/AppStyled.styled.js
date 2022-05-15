@@ -36,14 +36,14 @@ export const CardWithIconWrapper = styled.div`
   }
 `;
 
-export const CardContent = styled.form.attrs`
+export const CardContent = styled.form`
   padding: 0 20px;
   @media ${devices.notMobile} {
     padding: 0 50px;
   }
 `;
 
-export const CardTitle = styled.h1.attrs({ role: "heading" })`
+export const CardTitle = styled.h1`
   font-weight: 900;
   padding-top: 10px;
   color: ${colors.CloudBurst};
