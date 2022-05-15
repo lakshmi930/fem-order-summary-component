@@ -16,7 +16,7 @@ Used styled-components
 
 ### Links
 
-- Solution URL: [FEM Solution](https://your-solution-url.com)
+- Solution URL: [FEM Solution](https://www.frontendmentor.io/solutions/responsive-order-summary-card-using-flex-styled-B1htaxkD5)
 - Live Site URL: [Live](https://lakshmi930.github.io/fem-order-summary-component/)
 
 
