@@ -26,13 +26,13 @@ export const CardWithIconWrapper = styled.div`
   background-color: ${colors.White};
   margin: 5em auto;
   width: 90%;
-  height: 700px;
+  height: 40em;
   border-radius: 30px;
   overflow: hidden;
   @media ${devices.notMobile} {
-    margin: 9em auto;
+    margin: 5em auto;
     width: 450px;
-    height: 700px;
+    height: 40em;
   }
 `;
 
